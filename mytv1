@@ -264,7 +264,7 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" ,Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-cinemaHD.jpg" ,Zee Cinema HD
-http://103.141.66.36/bpk-tv/10430/default/index.m3u8
+https://watchindia.net:8443/live/19681/88833/787.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/b-Zee-Classic-Logo-without-tag-line.jpg" ,Zee Classic
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/F4dP6OP.png" ,Zing

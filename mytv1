@@ -22,7 +22,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" ,Channel I
 http://45.249.187.238:8081/hls/live7.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/6GxyIRO4P74.png" ,DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/Z13U9Vt.png" ,Deepto TV
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" ,Desh TV
@@ -56,7 +56,7 @@ http://45.249.187.238:8081/hls/live4.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://ruposhibangla.in/assets/img/logo.png" ,Ruposhi Bangla
 http://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" ,RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.rtvmusic.tv/assets/frontEnd/img/logo.png" ,RTV Music
 http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" ,SA TV
@@ -214,7 +214,7 @@ https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dd_national.jpg/240px-Dd_national.jpg" ,DD National
 https://edge01.iptv.digijadoo.net/live/dd_national/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.pinimg.com/originals/87/16/fe/8716fec5114875a41b0628fa1729457c.jpg" ,DD Sports
-https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" ,DD News
 https://edge01.iptv.digijadoo.net/live/dd_news/chunks.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="http://enterr10tv.com/images/enter10_logo.png" ,Enter 10

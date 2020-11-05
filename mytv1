@@ -1,274 +1,913 @@
 #EXTM3U
-#EXTINF:-1 group-title="BINGE",Ekattor TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ott_ekattor_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",DBC News
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ott_dbc_news_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Independent TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_independent_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",News24
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ott_news_24_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Jamuna TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_jamuna_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Somoy TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_somoy_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",ATN News
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_atn_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Channel 24
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ott_channel_24PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Channel I
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_channel_iPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",NTV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ntvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",RTV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_rtvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Bangla Vision
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_bangla_visionPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Ekushey TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ekushey_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Deepto TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_deepto_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Maasranga TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_maasrangaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Gazi TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_gazi_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",SA TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sa_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",ATN Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_atn_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Boishakhi TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_boishakhi_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Channel 9
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_channel_9PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Bangla TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_bangla_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Desh TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ott_desh_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Nagorik TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nagorik_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Asian TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_asian_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",MY TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_my_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Mohona TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_mohona_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Bijoy TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_bijoy_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Ananda TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ott_ananda_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Ananda TV [ex]
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_probashibanglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",BTV World
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_btv_worldPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sangsad TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sangsad_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Duronto TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_duronto_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Gaan Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_gaan_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sangeet Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sangeet_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Dhoom Music
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_dhoom_musicPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Colors Bangla HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_bangla_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Colors Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zee Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Jalsha
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_jalsha_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Aath
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_aathPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Akaash Aath
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_dillagiPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Ruposhi Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ruposhi_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",DD Bangla
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_dd_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Jalsha Movies
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_jalsha_moviesPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zee Bangla Cinema
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_bangla_cinemaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",ABP Ananda
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_abp_anandaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",VH1 HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_vh1PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",MTV Beats
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_mtv_beatsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zoom
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zoomPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",9xm
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_9xmPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Music India
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_music_indiaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",9X Jalwa
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_9x_jalwaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Mastiii
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_mastiiPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",B4U Music
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_b4u_musicPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zing
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zingPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonyPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Colors HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Colors (Asia)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_colors_asiaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",&TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_and_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Plus HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_plus_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Plus
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_plusPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zee TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony SAB HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sabPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Bharat (Asia)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_bharatPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Colors Rishtey
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_rishteyPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",DD National
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_dd_nationalPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Max HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_maxPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Max 2
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_max_2PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Gold
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_goldPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Gold UK
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_gold_intlPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Star Gold 2
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_movies_okPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zee Cinema
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_cinemaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Zee Action
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_actionPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",B4U Movies
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_b4u_moviesPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Manoranjan TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_manoranjanPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Monoranjan Movies
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_manoranjan_moviesPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Enterr 10
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_enter_tenPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Warner TV
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_wbPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Pix HD (Asia)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_pixPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8 
-#EXTINF:-1 group-title="BINGE",HBO
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_hboPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Movies Now HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_movies_nowPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Lotus Macau
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_macau_lotusPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Comedy Central
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_comedy_centralPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Ten 1 HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_ten_1PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Ten 2 HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_ten_2PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Ten 3 HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_ten_3PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Six HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_sixPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",DD Sports
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_dd_sportsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony BBC Earth HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_bbc_earthPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",BBC Lifestyle
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_bbc_lifestylePQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Discovery HD (English)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_discoveryPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Discovery Science (Hindi)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_discovery_sciencePQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Discovery Turbo (Hindi)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_discovery_turboPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Animal Planet (Hindi)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_animal_planetPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",National Geographic HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_inPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Nat Geo Wild
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_wildPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Nat Geo People
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_peoplePQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",TLC HD (English)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_tlc_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",TLC (Hindi)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_tlcPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",History TV 18
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_history_tv_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Fox Life (India)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_fox_lifePQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Hum Masala
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_hum_masalaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",FYI TV 18 HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_fyi_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Cartoon Network (Hindi)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_cartoon_networkPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Pogo
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_pogoPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Nick HD
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nick_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Nick (Bangla)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nickelodeonPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Nick Jr
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nick_jrPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sonic (Bangla)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonicPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Sony Yay (Bangla)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_yayPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Discovery Kids (Hindi)
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_discovery_kidsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",BBC World
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_bbc_worldPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Al Jazeera
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_al_jazeeraPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",CNN International
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_cnnPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",DW TV Asia
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_dwPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Arirang World
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_arirangPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",NHK World
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nhk_worldPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Euro News
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_euro_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Rai Italia
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_rai_italiaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",YTN World
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ytnPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Times Now
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_times_nowPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",APN
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_apn_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",ABP News
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_abp_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",PTV World
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ptv_worldPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",PTV Home
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ptv_homePQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",PTV Global
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ptv_globalPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",A Plus
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_a_plusPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",ARY Zindagi
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ary_zindigiPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",ARY Digital
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ary_asiaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Ary Q
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ary_qtvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Hum Sitery
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_hum_sitarayPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",Geo News
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_geo_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-#EXTINF:-1 group-title="BINGE",PTV News
-https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_ptv_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1,Sangsad TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10509
+#EXTINF:-1,BTV  BD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10507
+#EXTINF:-1,BTV World
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10508
+#EXTINF:-1,ATN BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10510
+#EXTINF:-1,Channel i HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10511
+#EXTINF:-1,EKUSHEY TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10513
+#EXTINF:-1,NTV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10514
+#EXTINF:-1,BANGLA VISION HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10515
+#EXTINF:-1, MAASRANGA TV HD---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10516
+#EXTINF:-1,DEEPTO TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10517
+#EXTINF:-1,NAGORIK TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10518
+#EXTINF:-1, CHANNEL 9 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10519
+#EXTINF:-1, GTV TV SD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10520
+#EXTINF:-1,GTV TV HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10521
+#EXTINF:-1,ASAIN TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10522
+#EXTINF:-1, SA TV HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10523
+#EXTINF:-1, BOISHAKHI TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10524
+#EXTINF:-1,RTV HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10525
+#EXTINF:-1,MY TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10526
+#EXTINF:-1, MOHONA TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10527
+#EXTINF:-1,EKATTOR TV SD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10528
+#EXTINF:-1,EKATTOR TV HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10529
+#EXTINF:-1, DBC NEWS 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10530
+#EXTINF:-1,  NEWS 24 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10531
+#EXTINF:-1, JAMUNA TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10532
+#EXTINF:-1,ATN NEWS 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10592
+#EXTINF:-1,Independent TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10593
+#EXTINF:-1,SOMOY TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10594
+#EXTINF:-1,CHANNEL 24
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10595
+#EXTINF:-1,DURONTHO TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10596
+#EXTINF:-1,STAR JALSHA SD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10597
+#EXTINF:-1,STAR JALSHA HD++
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10598
+#EXTINF:-1,ZEE BANGLA SD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10599
+#EXTINF:-1,ZEE BANGLA HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10600
+#EXTINF:-1,COLORS BANGLA HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10601
+#EXTINF:-1,COLORS BANGLA SD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10602
+#EXTINF:-1,SONY AATH SD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10603
+#EXTINF:-1,SONY AATH HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10604
+#EXTINF:-1,AKASH 8
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10605
+#EXTINF:-1,ENTER 10 BANGLA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10606
+#EXTINF:-1,RUPOSHI BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10607
+#EXTINF:-1,JALSHA MOVIES SD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10608
+#EXTINF:-1,JALSHA MOVIES HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10609
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10610
+#EXTINF:-1,ANANDHO TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10611
+#EXTINF:-1,BIJOY TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10612
+#EXTINF:-1,MOVIE BANGLA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10613
+#EXTINF:-1,MY  TV CINEMA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10614
+#EXTINF:-1,TOLLYHOOD MOVIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10615
+#EXTINF:-1,GAAN BANGLA HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10616
+#EXTINF:-1,RTV MUSIC
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10617
+#EXTINF:-1,ATN MUSIC 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10618
+#EXTINF:-1,SANGIT BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10619
+#EXTINF:-1,BANGLA TALKIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10620
+#EXTINF:-1,MUSIC TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10622
+#EXTINF:-1,Khusbo Bangla
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10664
+#EXTINF:-1,NRB HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10666
+#EXTINF:-1,NANDAN TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10668
+#EXTINF:-1,RANG HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10669
+#EXTINF:-1,Deshe Bideshe HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10670
+#EXTINF:-1,ATN UK 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10671
+#EXTINF:-1,Millennium TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10672
+#EXTINF:-1,Varendra TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10673
+#EXTINF:-1,Joy Jatra TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10674
+#EXTINF:-1,71 Bangla TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10675
+#EXTINF:-1,Bangla 21 IPTV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10676
+#EXTINF:-1,RANG TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10677
+#EXTINF:-1,Royal TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10678
+#EXTINF:-1,NAN TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10680
+#EXTINF:-1,ALPONA TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10681
+#EXTINF:-1,CHANNEL T1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10682
+#EXTINF:-1,AB TV HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10683
+#EXTINF:-1,ALIF TV  HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10684
+#EXTINF:-1,JAGORONI TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10685
+#EXTINF:-1,Magic Bangla TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10686
+#EXTINF:-1,CUMILLA 24 TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10690
+#EXTINF:-1,CNN BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10693
+#EXTINF:-1,CHANNEL TT
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10694
+#EXTINF:-1,HERNET TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10695
+#EXTINF:-1,ITV BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10696
+#EXTINF:-1,Jonmobhumi TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10697
+#EXTINF:-1,KTV BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10698
+#EXTINF:-1,TIME TV USA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10699
+#EXTINF:-1,AR TV NETWORK
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10710
+#EXTINF:-1,AYNA TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10711
+#EXTINF:-1,BANGLA CHANNEL
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10712
+#EXTINF:-1,DESI TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10713
+#EXTINF:-1,NEWS 16 UHD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10714
+#EXTINF:-1,ORANGE TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10715
+#EXTINF:-1,PROBASHI BANGLA HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10717
+#EXTINF:-1,TIMES 24 TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10719
+#EXTINF:-1,THE CHANNEL TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10720
+#EXTINF:-1,NTV UK
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10721
+#EXTINF:-1,DIGI BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10722
+#EXTINF:-1,NOKSHI TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10725
+#EXTINF:-1,BANGLA 21 TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10726
+#EXTINF:-1,TORONGO TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10767
+#EXTINF:-1,CHANNEL S 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10768
+#EXTINF:-1,BANGLA TV ..
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10769
+#EXTINF:-1,DESH TV .
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10770
+#EXTINF:-1,TBN 24
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10771
+#EXTINF:-1,Binodon tv 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10772
+#EXTINF:-1,BB BANGLA TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11170
+#EXTINF:-1,Doyel IPTV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11171
+#EXTINF:-1,Channel H IPTV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11172
+#EXTINF:-1,Channel M2 HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11173
+#EXTINF:-1,Voice TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11174
+#EXTINF:-1,LIVE 2 WEB
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11175
+#EXTINF:-1,PBN TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11176
+#EXTINF:-1,JONAKI IPTV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11177
+#EXTINF:-1,Onuvuti TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11178
+#EXTINF:-1,MODHUMOTI TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11179
+#EXTINF:-1,G BANGLA BD TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11636
+#EXTINF:-1,CHANNEL 23
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11188
+#EXTINF:-1,EKATTOR ---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11637
+#EXTINF:-1,STAR JALSHA HD ---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11638
+#EXTINF:-1,ZEE BANGLA ---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11639
+#EXTINF:-1,JALSHA MOVIES---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11640
+#EXTINF:-1,CITY TV BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11642
+#EXTINF:-1,JHANKAR TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10621
+#EXTINF:-1,CHANNEL S
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10665
+#EXTINF:-1,DD BANGLA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10687
+#EXTINF:-1,NRB CONNECT
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14508
+#EXTINF:-1,Star plus HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6530
+#EXTINF:-1,STAR PLUS 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6531
+#EXTINF:-1,ZEE TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6532
+#EXTINF:-1,ZEE TV HD  
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6533
+#EXTINF:-1,Colors HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6534
+#EXTINF:-1,Colors Rishtey
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6535
+#EXTINF:-1,SONY PAL 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6536
+#EXTINF:-1,Sony SAB HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6537
+#EXTINF:-1,SONY TV HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6538
+#EXTINF:-1,SONY TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6539
+#EXTINF:-1,& TV HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6542
+#EXTINF:-1,STAR BHARAT 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6800
+#EXTINF:-1,ENTER 10
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6804
+#EXTINF:-1,& TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6799
+#EXTINF:-1,DANGAL 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10623
+#EXTINF:-1,BIG MAGIC
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10629
+#EXTINF:-1,DD National
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10631
+#EXTINF:-1,THE Q INDIA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10647
+#EXTINF:-1,ZEE SAILE US
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10648
+#EXTINF:-1,ZEE TV 4K 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10650
+#EXTINF:-1,MTV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10653
+#EXTINF:-1,BIG GANGA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14137
+#EXTINF:-1,DABAANG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14138
+#EXTINF:-1,ZEE BIOSCOPE
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6794
+#EXTINF:-1,COLORS 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6806
+#EXTINF:-1,STAR GOLD UHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6543
+#EXTINF:-1,Star Gold 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6544
+#EXTINF:-1,STAR GOLD 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6546
+#EXTINF:-1,ZEE CINEMA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6547
+#EXTINF:-1,ZEE CINEMA HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6548
+#EXTINF:-1,SONY SET  MAX 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6551
+#EXTINF:-1,SONY SET MAX HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6552
+#EXTINF:-1,SONY MAX HD 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6553
+#EXTINF:-1,BFLIX MOVIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6554
+#EXTINF:-1,BOLLYWOOD HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6555
+#EXTINF:-1,WOW CINEMA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6790
+#EXTINF:-1,MBC Bollywood
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6791
+#EXTINF:-1,UTV AcTion 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6792
+#EXTINF:-1,B4U Movies 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6793
+#EXTINF:-1,B4U Kadak
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6795
+#EXTINF:-1,& PICTURE HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6796
+#EXTINF:-1,Bollywood Clasic
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6797
+#EXTINF:-1,Shemaroo Bollywood Premier HD+
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6798
+#EXTINF:-1,Zee Action  
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/9055
+#EXTINF:-1,ZEE BOLLYHOOD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/9072
+#EXTINF:-1,SONY SET MAX
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6741
+#EXTINF:-1,B4U MOVIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10070
+#EXTINF:-1,ABZY MOVIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10591
+#EXTINF:-1,Dabang TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10624
+#EXTINF:-1,MONORONJON TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10343
+#EXTINF:-1,Monoranjon Grand
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10625
+#EXTINF:-1,MANORONJON MOVIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10626
+#EXTINF:-1,Enterr 10 Movies
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10627
+#EXTINF:-1,MOHA MOVIES
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10632
+#EXTINF:-1,ZEE ANMOL CINEMA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10634
+#EXTINF:-1,BOX CINEMA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10635
+#EXTINF:-1,SAMEROO  TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10636
+#EXTINF:-1,MOON  TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10637
+#EXTINF:-1,SONY WAH HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6541
+#EXTINF:-1,BOLLYHOOD RU
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10649
+#EXTINF:-1,BOLLYHOOD TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10651
+#EXTINF:-1,E 24
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6808
+#EXTINF:-1,STAR GOLD SELECT HD.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10701
+#EXTINF:-1,Zing
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6605
+#EXTINF:-1,AXN **
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6560
+#EXTINF:-1,Sony PIX HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6556
+#EXTINF:-1,Star Movies  
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6557
+#EXTINF:-1,MNX HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6559
+#EXTINF:-1,Star Movies [ DAY & Midnight ]
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6558
+#EXTINF:-1,HBO HD**
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6562
+#EXTINF:-1,FOX HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6564
+#EXTINF:-1,Fox Action Movies
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6565
+#EXTINF:-1,Comedy Central HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6567
+#EXTINF:-1,& Flix HD""
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6568
+#EXTINF:-1,HBO HD [Day & Midnight ]
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6570
+#EXTINF:-1,Sony Movies Action---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6571
+#EXTINF:-1,& Prive HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6572
+#EXTINF:-1,Romedy Now HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6689
+#EXTINF:-1,Mbc Max HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6690
+#EXTINF:-1,Mbc 2 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6691
+#EXTINF:-1,Movies Now
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6693
+#EXTINF:-1,AXN  RU
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6745
+#EXTINF:-1,Colors infinity 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/9073
+#EXTINF:-1,Rai Italia 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/9075
+#EXTINF:-1,ZEE CAFE  HD ""
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10170
+#EXTINF:-1,FOX CRIME 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10559
+#EXTINF:-1,DOVE channel 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10563
+#EXTINF:-1,MN+
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10564
+#EXTINF:-1,HITS
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10565
+#EXTINF:-1,& FLIX 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10568
+#EXTINF:-1,FOX MOVIES 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10574
+#EXTINF:-1,KIX 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10576
+#EXTINF:-1,THILLAR
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10578
+#EXTINF:-1,SERIES ZONE
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10580
+#EXTINF:-1,ENGLISH KINGDOM
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10581
+#EXTINF:-1,CINEMAX UHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10641
+#EXTINF:-1,HBO HITS UHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10642
+#EXTINF:-1,HBO SIGNATURE UHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10643
+#EXTINF:-1,HBO FAMILY UHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10644
+#EXTINF:-1,HBO UHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10645
+#EXTINF:-1,RED HBO UHD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10646
+#EXTINF:-1,iflim
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10652
+#EXTINF:-1, NAT GEO DUBAI
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10050
+#EXTINF:-1,Euro news
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/9176
+#EXTINF:-1,FOX NEWS 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11180
+#EXTINF:-1,RT DOCUMENT 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11643
+#EXTINF:-1,Duronto TV**
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6611
+#EXTINF:-1,Cartoon Network
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6612
+#EXTINF:-1,Nick Bangla 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6613
+#EXTINF:-1,Nick HD+
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6614
+#EXTINF:-1,Cheebies Asia---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6615
+#EXTINF:-1,Sony Yay HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6616
+#EXTINF:-1,NICK Hindi
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6617
+#EXTINF:-1,Disnep Channel Hindi
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6618
+#EXTINF:-1,Animax
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6702
+#EXTINF:-1,POGO
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6703
+#EXTINF:-1,Nickelodeon Sonic Bangla
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6704
+#EXTINF:-1,NICK JUNIOR
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6705
+#EXTINF:-1,CABEEBISE BBC HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6706
+#EXTINF:-1,Discovery Kids
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6707
+#EXTINF:-1,CN HD +**
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/7104
+#EXTINF:-1,Disnep Channel XP 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10659
+#EXTINF:-1,3 abn kids TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10691
+#EXTINF:-1,ANI PLUS
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11189
+#EXTINF:-1,Shemaroome kids
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11190
+#EXTINF:-1,MBC KIDS  1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11192
+#EXTINF:-1,ANIPLUS ENGLISH 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/12871
+#EXTINF:-1,Star Sports Select 2 HD ....
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6586
+#EXTINF:-1,Star Sports 1 HD**
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6587
+#EXTINF:-1,TITAS SPORTS  HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6588
+#EXTINF:-1,Star Sports 2 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6589
+#EXTINF:-1,SONY TEN 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6590
+#EXTINF:-1,PTV Sports HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6591
+#EXTINF:-1,Sony Six HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6592
+#EXTINF:-1,SONY TEN  1 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6593
+#EXTINF:-1,SONY Ten 2 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6594
+#EXTINF:-1,SONY TEN 3 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6595
+#EXTINF:-1,Ten Sports
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6596
+#EXTINF:-1,SKY CRICKET HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6597
+#EXTINF:-1,SKY FOOTBALL HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6598
+#EXTINF:-1,Fox Sports News
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6599
+#EXTINF:-1,STAR SPORTS HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6600
+#EXTINF:-1,PTV Sports
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6601
+#EXTINF:-1,Real Madrid TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6648
+#EXTINF:-1,Dsports
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6649
+#EXTINF:-1,SKY SPORTS CRICKET  HD RE
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6651
+#EXTINF:-1,Bein Sports HD Extra
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6652
+#EXTINF:-1,Bein Sports HD 1  HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6653
+#EXTINF:-1,Star Sports  1 HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6657
+#EXTINF:-1,Star Sports Select 2 HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6658
+#EXTINF:-1,SKY NET SPORTS 2 HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6654
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6659
+#EXTINF:-1,Viasat Sport
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6663
+#EXTINF:-1,Olympic Channel
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6665
+#EXTINF:-1,WWE Network
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6667
+#EXTINF:-1,RTV Sports
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6670
+#EXTINF:-1,Live sports  1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10446
+#EXTINF:-1,LIVE SPOTRS 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10447
+#EXTINF:-1,LIVE SPORTS 3
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10448
+#EXTINF:-1,LUVE SPORTS 4
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10449
+#EXTINF:-1,Live sports 5---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10454
+#EXTINF:-1,Euro sports 1 4k
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10498
+#EXTINF:-1,Euro sports 5 4k
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10499
+#EXTINF:-1,PK SPORTS HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10692
+#EXTINF:-1,BAYERN MUNICH TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10700
+#EXTINF:-1,Sony Six HD +.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11181
+#EXTINF:-1,Sony Ten 3 HD.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11182
+#EXTINF:-1,Star Sports Select 1 HD.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11183
+#EXTINF:-1,Star Sports Select 1 HD+.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11184
+#EXTINF:-1,Star Sports Select 2 HD.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11185
+#EXTINF:-1,English Premier League LIVE 1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14505
+#EXTINF:-1,English Premier League LIVE 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14506
+#EXTINF:-1,SONY LIVE 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14507
+#EXTINF:-1,BBC Earth HD+
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6573
+#EXTINF:-1,Discovery Bangla HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6575
+#EXTINF:-1,HISTORY HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6574
+#EXTINF:-1,NAT GEO HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6576
+#EXTINF:-1,National Geographic HINDI
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6577
+#EXTINF:-1,Nat Geo Wild
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6578
+#EXTINF:-1,TLC HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6579
+#EXTINF:-1,BBC EARTH FHD**
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6581
+#EXTINF:-1,DISCOVERY TURBO
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6582
+#EXTINF:-1,RT Documentary
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6583
+#EXTINF:-1,LOVE NATURE 4K
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6584
+#EXTINF:-1,NASA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6647
+#EXTINF:-1,Discovery Bangla SD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6661
+#EXTINF:-1,FOX LIFE 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6662
+#EXTINF:-1,Animal Planet Hindi HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6694
+#EXTINF:-1,Discovery SCIENCE HINDI
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6580
+#EXTINF:-1,Travel XP HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6636
+#EXTINF:-1,Al Jazeera HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6619
+#EXTINF:-1,BBC World
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6620
+#EXTINF:-1,CNN---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6621
+#EXTINF:-1,DW
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6622
+#EXTINF:-1,Voice of America
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6624
+#EXTINF:-1,CNA World
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6625
+#EXTINF:-1,NHKWorld Japan
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6623
+#EXTINF:-1,TIMES NOW
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6627
+#EXTINF:-1,Mirror Now
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6628
+#EXTINF:-1,DD News (1)
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6629
+#EXTINF:-1,NDTV 24x7
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6631
+#EXTINF:-1,Bloomberg Asia
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6630
+#EXTINF:-1,Redbull TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6632
+#EXTINF:-1,Bangla Time
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6633
+#EXTINF:-1,ZEE 24 ghanta
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6634
+#EXTINF:-1,Geo news
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6683
+#EXTINF:-1,ABP Ananda [IN]
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6834
+#EXTINF:-1,R Plus News [IN]
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6836
+#EXTINF:-1,DW TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6837
+#EXTINF:-1,France 24
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6838
+#EXTINF:-1,CNBC Awaaz
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6839
+#EXTINF:-1,RT News
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6840
+#EXTINF:-1,Nat Geo People
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/9074
+#EXTINF:-1,CINEMA WORLD HD+
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10577
+#EXTINF:-1,DISCOVERY HD ENGLISH 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10702
+#EXTINF:-1,DISCOVERY HINDI
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10703
+#EXTINF:-1,Nat Geo Wild RU UHD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10590
+#EXTINF:-1,TLC HINDI 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10709
+#EXTINF:-1,Discovery UHD RU
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10723
+#EXTINF:-1,HISTORY 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11641
+#EXTINF:-1,MAKKH LIVE 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6638
+#EXTINF:-1,MEDINA LIVE 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6639
+#EXTINF:-1,Peace TV Bangla
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6641
+#EXTINF:-1,Madani TV Bangla
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6642
+#EXTINF:-1,ATN Islam
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6643
+#EXTINF:-1,Azan TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6644
+#EXTINF:-1,Ary Q tv
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6645
+#EXTINF:-1,Iqra Bangla TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6646
+#EXTINF:-1,AL DAWAH TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10638
+#EXTINF:-1,MTA WORLD ENGLISH
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10579
+#EXTINF:-1,PEACE TV BANGLA +
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10688
+#EXTINF:-1,Peace TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10689
+#EXTINF:-1,ion TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10724
+#EXTINF:-1,Pan Vision 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10679
+#EXTINF:-1,Geo Kahini
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6747
+#EXTINF:-1,DD NATIONAL PAK
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6748
+#EXTINF:-1,ARY MUSIC
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6750
+#EXTINF:-1,PK TV  
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6752
+#EXTINF:-1,Samaa TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6753
+#EXTINF:-1,ZINDEGI
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6754
+#EXTINF:-1,EAWAZ TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6755
+#EXTINF:-1,HUM TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6758
+#EXTINF:-1,Subrang
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6759
+#EXTINF:-1,Express Entertainment
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6763
+#EXTINF:-1,HUM SITHARY
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6764
+#EXTINF:-1,HUMRAZ TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6765
+#EXTINF:-1,AVT KHYBER
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6766
+#EXTINF:-1,Khyber TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6767
+#EXTINF:-1,PTV Global
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6768
+#EXTINF:-1,Eawaz TV (CA)
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6769
+#EXTINF:-1,ARY FAMILY
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6736
+#EXTINF:-1,ARY DIGITAL
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6730
+#EXTINF:-1,MAKKAWEB
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6737
+#EXTINF:-1,ARY Q
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6738
+#EXTINF:-1,WB TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6740
+#EXTINF:-1,GEO SUPPOR 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10569
+#EXTINF:-1,SARJA TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10639
+#EXTINF:-1,KAPPA TV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6603
+#EXTINF:-1,Mastii
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6606
+#EXTINF:-1,ATN Music
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6607
+#EXTINF:-1,Zee ETC 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6608
+#EXTINF:-1,9X JALWA
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6609
+#EXTINF:-1,Music India
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6610
+#EXTINF:-1,B4U Music
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6650
+#EXTINF:-1,9X JAKKHAS
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6680
+#EXTINF:-1,9XM
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6731
+#EXTINF:-1,Dhoom Music [IN]
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6807
+#EXTINF:-1,MTV BEATS 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6809
+#EXTINF:-1,GAAN BANGLA 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6810
+#EXTINF:-1,MTV 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6812
+#EXTINF:-1,JOO MUSIC
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6814
+#EXTINF:-1,9X
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6816
+#EXTINF:-1,7S Music
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6817
+#EXTINF:-1,ZOOM 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6811
+#EXTINF:-1,MK Tunes
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6815
+#EXTINF:-1,VH1 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6818
+#EXTINF:-1,Zeta TV HD ENG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6819
+#EXTINF:-1,MUSIC 24  ENG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6820
+#EXTINF:-1,Mooz Hits ENG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6821
+#EXTINF:-1,Mooz HD ENG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6822
+#EXTINF:-1,MOOZ Dance ENG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6823
+#EXTINF:-1,MOOZ RO ENG
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6824
+#EXTINF:-1,NAGO TV MUSIC 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6827
+#EXTINF:-1,MK SIX 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6826
+#EXTINF:-1,Trace Mziki
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6829
+#EXTINF:-1,Colosal.
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10562
+#EXTINF:-1,V  BEATS 2 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10512
+#EXTINF:-1,BOX HITS ---
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10566
+#EXTINF:-1,ONLY MUSIC HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10570
+#EXTINF:-1,Ary Muzik
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10571
+#EXTINF:-1,Public music 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10572
+#EXTINF:-1,Jhanjar Music
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10573
+#EXTINF:-1,ARVAZ 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10589
+#EXTINF:-1,Boogle Bollyhood
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10630
+#EXTINF:-1,Jhanjar Music HD 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10588
+#EXTINF:-1,Desi Channel
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/6803
+#EXTINF:-1,STAR SPORTS 1 HD IPL 10 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11619
+#EXTINF:-1,PK SPORTS HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11618
+#EXTINF:-1,GTV SD  IPL 3 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11617
+#EXTINF:-1,GTV HD IPL 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11616
+#EXTINF:-1,STAR SPORTS 1 SELECT  HD IPL 11
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11620
+#EXTINF:-1,STAR SPORTS SELECT 1 HD IPL 12
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11621
+#EXTINF:-1,STAR SPORTS 2  IPL 13
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11622
+#EXTINF:-1,STAR SPORTS  IPL 
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11623
+#EXTINF:-1,STAR SPORTS 1 HD P
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11629
+#EXTINF:-1,STAR SPORTS SELECT 1 HD IPL
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11630
+#EXTINF:-1,STAR SPORTS 1 HD  IPL
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11631
+#EXTINF:-1,GTV HD IPL 1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11633
+#EXTINF:-1,GTV HD IPL 4
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11634
+#EXTINF:-1,TITAS SPORTS  HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14471
+#EXTINF:-1,Olympics Channel
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14472
+#EXTINF:-1,Sony Ten 1 SD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14473
+#EXTINF:-1,Sony Ten 2 HD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14474
+#EXTINF:-1,Sony Ten 3
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14475
+#EXTINF:-1,Fox Sports 1 Asia
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14476
+#EXTINF:-1,Fox Sports 2 Asia
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14477
+#EXTINF:-1,Fox Sports 3 Asia
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14478
+#EXTINF:-1,Olympic Channel
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14479
+#EXTINF:-1,ABU DHABI SPORTS 1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14480
+#EXTINF:-1,ABU DHABI SPORTS 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14481
+#EXTINF:-1,Al Kass  Sport 1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14482
+#EXTINF:-1,Al Kass  Sport 2
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14483
+#EXTINF:-1,Al Kass Sports 5
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14484
+#EXTINF:-1,Al Kass Sports Online
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14485
+#EXTINF:-1,Bek Nashya Sport West
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14486
+#EXTINF:-1,World Of Free sports
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14487
+#EXTINF:-1,Oman Sport
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14488
+#EXTINF:-1,EUROSPORT 1
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14489
+#EXTINF:-1,ESPN U
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14490
+#EXTINF:-1,ATP Tennis TV
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14491
+#EXTINF:-1,Dubai Racing
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14492
+#EXTINF:-1,DUBAI SPORTS 1 FHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14493
+#EXTINF:-1,DUBAI SPORTS 3 FHD
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/14494

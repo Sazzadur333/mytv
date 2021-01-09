@@ -12,19 +12,19 @@ https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Tv" tvg-logo="" group-title="Bangla"
 https://rhridoy136.shortcm.li/banglatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="" group-title="Bangla"
-http://103.205.133.48/hls/satv.m3u8
+https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="" group-title="Bangla"
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="" group-title="Bangla"
-http://103.205.133.48/hls/rtv.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto tv" tvg-logo="" group-title="Bangla"
 https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATn" tvg-logo="" group-title="Bangla",Gaan Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="Bangla"
 https://rhridoy136.shortcm.li/gaanbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News"
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla News"
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
+https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla News"
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="Bangla News"
